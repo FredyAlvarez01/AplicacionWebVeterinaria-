@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 6, 2021, 9:54:51 PM
+    Author     : usuario
+*/
+
+body{
+    padding: 4rem 0;
+    padding-bottom: 0;
+    background: black;
+    color: white;
+    background-color: #2fb4f0;
+    background-color: #748eee;
+     font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+
+
+.btnNuevoUsuario{
+    cursor: pointer;
+    display: inline-block;
+    border: 0;
+    font-weight: bold;
+    padding: 10px 20px;
+    background:  rgb(139, 231, 238);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    border-radius: 0.350rem;
+    margin: 10px 0;
+    justify-content: center;
+    align-items: flex-start;
+
+}
